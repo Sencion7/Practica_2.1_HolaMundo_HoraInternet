@@ -1,5 +1,9 @@
 # Practica_2.1
 # 2.1.1 Practica De inicio es la básico de Desplegar algo en pantalla
+# Circuito
+![](Evidencia_Practica_2.1.1.jpg)
+![](Evidencia_Practicaa_2.1.1.jpg)
+
 # CÓDIGO
 ```python
 from machine import Pin, I2C
