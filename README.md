@@ -53,8 +53,8 @@ oled.show()
 ![image](https://github.com/Sencion7/Practica_2.1_HolaMundo_HoraInternet/assets/80359457/ff92581b-3f85-45d3-95d5-173792de2874)
 
 ## Circuito en funcionamiento
-![](Evidencia_Practica_2.1.2.jpg)
-![](Evidencia_Practicaa_2.1.2.jpg)
+![](Evidencia_Practica_2.2.2.jpg)
+![](Evidencia_Practicaa_2.2.2.jpg)
 
 # CÓDIGO
 ```python
@@ -96,4 +96,4 @@ oled.text(current_time, 0, 16)
 oled.show()
 ```
 # Resultados
-![](Evidencia_Practicaaa_2.1.2.jpg)
+![](Evidencia_Practicaaa_2.2.2.jpg)
